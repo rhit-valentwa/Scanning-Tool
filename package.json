@@ -1,0 +1,22 @@
+{
+  "name": "data-processing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VillhemVonka/eso-scanner.git"
+  },
+  "author": "VillhemVonka",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VillhemVonka/eso-scanner/issues"
+  },
+  "homepage": "https://github.com/VillhemVonka/eso-scanner#readme",
+  "dependencies": {
+    "simple-spellchecker": "^1.0.2"
+  }
+}
